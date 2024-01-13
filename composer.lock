@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "50b324150c834c29667a6e1e3c25145d",
+    "content-hash": "118ff6f2945df0b5795cc766110fe23a",
     "packages": [
         {
             "name": "brick/math",
@@ -5494,16 +5494,16 @@
         },
         {
             "name": "viewi/viewi",
-            "version": "v2.2.0",
+            "version": "v2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/viewi/viewi.git",
-                "reference": "35afe9d516508ff11761ccf1bc05d4749b494ebd"
+                "reference": "77ee343f060e8970bfbf98892df4068f661e2937"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/viewi/viewi/zipball/35afe9d516508ff11761ccf1bc05d4749b494ebd",
-                "reference": "35afe9d516508ff11761ccf1bc05d4749b494ebd",
+                "url": "https://api.github.com/repos/viewi/viewi/zipball/77ee343f060e8970bfbf98892df4068f661e2937",
+                "reference": "77ee343f060e8970bfbf98892df4068f661e2937",
                 "shasum": ""
             },
             "require": {
@@ -5547,7 +5547,7 @@
             ],
             "support": {
                 "issues": "https://github.com/viewi/viewi/issues",
-                "source": "https://github.com/viewi/viewi/tree/v2.2.0"
+                "source": "https://github.com/viewi/viewi/tree/v2.2.1"
             },
             "funding": [
                 {
@@ -5555,7 +5555,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2024-01-13T06:39:57+00:00"
+            "time": "2024-01-13T10:10:11+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -6763,16 +6763,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "10.5.5",
+            "version": "10.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "ed21115d505b4b4f7dc7b5651464e19a2c7f7856"
+                "reference": "ab9a20b623b235165d24faa9d1da925cb54939c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/ed21115d505b4b4f7dc7b5651464e19a2c7f7856",
-                "reference": "ed21115d505b4b4f7dc7b5651464e19a2c7f7856",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/ab9a20b623b235165d24faa9d1da925cb54939c0",
+                "reference": "ab9a20b623b235165d24faa9d1da925cb54939c0",
                 "shasum": ""
             },
             "require": {
@@ -6844,7 +6844,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.5"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.6"
             },
             "funding": [
                 {
@@ -6860,7 +6860,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-12-27T15:13:52+00:00"
+            "time": "2024-01-13T12:49:56+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -8216,5 +8216,5 @@
         "php": "^8.1"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
